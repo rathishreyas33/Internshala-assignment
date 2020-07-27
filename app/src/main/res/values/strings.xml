@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Internshala</string>
+    <string name="title_activity_dash">Dash</string>
+    <string name="tab_text_1">Contact Us</string>
+    <string name="tab_text_2">Image</string>
+    <string name="tab_text_3">View Image</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
